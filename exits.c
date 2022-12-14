@@ -1,7 +1,11 @@
 #include "shell.h"
 
 /**
+<<<<<<< HEAD
  **_strncpy - copies a string
+=======
+ **_strncpy - copies a string from src to dest
+>>>>>>> 154b85f5a0adae104f180cb7db9bbf16e2b7726b
  *@dest: the destination string to be copied to
  *@src: the source string
  *@n: the amount of characters to be copied
